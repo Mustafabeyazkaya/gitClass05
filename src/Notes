@@ -1,0 +1,14 @@
+***********************Git Class05***************
+(before 05 class, i deleted every class by accidently, sorry Mustafa)
+
+Cloning a Project
+
+Approach:
+    1.create a folder on desktop
+    2.navigate your terminal there
+    3.get the URL from the github --> in code --> under https://
+    4.git clone URL
+    ---
+    if u want to open the repo u cloned in the gitbash
+
+    5.u need to navigate to it
